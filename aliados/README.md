@@ -1,6 +1,6 @@
-# Vue.js
+# aliados
 
-> My classy Nuxt.js project
+> Vue.js POC
 
 ## Build Setup
 
