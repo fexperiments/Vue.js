@@ -1,7 +1,7 @@
 <template>
   <div>
-    <nav-bar></nav-bar>
-    <profile-data></profile-data>
+    <nav-bar />
+    <profile-data />
   </div>
 </template>
 
